@@ -1,0 +1,24 @@
+Instructions for API and access to Documentation for www.OpenBroker.com
+-----------------------------------------------------------------------
+
+### TESTING ###
+
+1.- Access https://openbroker-staging.herokuapp.com/
+2.- Sign in using credentials provided. If you have no credentials please mail admin@openbroker.com
+3.- Make sure you are a "Broker" or "Enterprise" user. "Free" or "Basic" Users don't have access to API.
+4.- You can upgrade your plan with a testing credit card (Card Number: 4242 4242 42424 42424 ; Security Code: 123 ; Exp Date: 01/30)
+5.- Now access https://openbroker-staging.herokuapp.com/users/account/api_integrations
+6.- Generate a new API key if you haven't yet.
+7.- You will obtain a new APP ID and API key.
+8.- Link to documentation: https://openbroker-staging.herokuapp.com/api/v1/api-docs/index.html
+
+
+### PRODUCTION ###
+
+1.- Access www.openbroker.com
+2.- Sign up as new user.
+3.- Upgrade your plan to "Broker" or "Enterprise"
+4.- Access https://www.openbroker.com/users/account/api_integrations
+5.- Generate a new API key if you haven't yet.
+6.- You will obtain a new APP ID and API key.
+7.- Link to documentation: https://www.openbroker.com/api/v1/api-docs/index.html
