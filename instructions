@@ -26,7 +26,7 @@ Only work on Production once you have been approved by an OpenBroker Admin.
 
 01.- Access www.openbroker.com
 02.- Sign up as new user.
-03.- Upgrade your plan to "Broker" or "Enterprise"
+03.- Upgrade your client's plan to "Broker" or "Enterprise"
 04.- Access https://www.openbroker.com/users/account/api_integrations
 05.- Generate a new API key if you haven't yet.
 06.- You will obtain a new APP ID and API key.
