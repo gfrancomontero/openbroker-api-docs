@@ -14,11 +14,15 @@ Urgencies ----- + 34 (675) 393 - 144
 06.- Generate a new API key if you haven't yet.
 07.- You will obtain a new APP ID and API key.
 09.- Link to documentation: https://openbroker-staging.herokuapp.com/api/v1/api-docs/index.html
-10.- XML Feed of User Properties: wwww.openbroker.com/api/v1/properties?view=kyero&app_id=[APP_ID]&api_key=[API_KEY]
+10.- Attention: XML Feed of User Properties: We highly encourage you not to work with XML feed. We rather encourage you to interact
+     directly with our API endpoints. Please note that we do not provide any support for XML feed, and will be deprecating it in 2022.
+     However, if you still choose to operate with this feed, please see the URL below:
+     wwww.openbroker.com/api/v1/properties?view=kyero&app_id=[APP_ID]&api_key=[API_KEY]
      ([APP_ID] and [API_KEY] values must be changed to match. Remember to remove square brakets[].)
 
 
 ### PRODUCTION ###
+Only work on Production once you have been approved by an OpenBroker Admin.
 
 01.- Access www.openbroker.com
 02.- Sign up as new user.
